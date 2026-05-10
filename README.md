@@ -49,6 +49,7 @@ mvnw.cmd
 .gitignore
 .gitattributes
 README.md
+
 🐳 Contenedorización
 
 El backend está contenerizado mediante Docker, lo que permite su ejecución en cualquier entorno sin depender del sistema operativo host.
