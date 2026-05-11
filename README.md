@@ -1,6 +1,6 @@
-# 🚀 Backend Microservice – Innovatech Chile
+#  Backend Microservice – Innovatech Chile
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 
 Este repositorio contiene el microservicio backend del sistema DevOps desarrollado para Innovatech Chile.
 
@@ -9,7 +9,7 @@ El proyecto sigue una arquitectura basada en microservicios, contenedores y auto
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 - Exponer una API REST funcional  
 - Integrarse con el frontend del sistema  
@@ -18,7 +18,7 @@ El proyecto sigue una arquitectura basada en microservicios, contenedores y auto
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Java 17  
 - Spring Boot  
@@ -30,7 +30,7 @@ El proyecto sigue una arquitectura basada en microservicios, contenedores y auto
 
 ---
 
-## 🏗️ Arquitectura del sistema
+##  Arquitectura del sistema
 
 El sistema sigue una arquitectura de microservicios:
 
@@ -40,7 +40,7 @@ El backend actúa como capa central de procesamiento, gestionando solicitudes HT
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```plaintext
 src/
@@ -70,7 +70,7 @@ mvnw.cmd
 
 ---
 
-## 🐳 Contenedorización
+##  Contenedorización
 
 El backend está contenerizado mediante Docker, permitiendo su ejecución en cualquier entorno sin depender del sistema operativo host.
 
@@ -82,7 +82,7 @@ Incluye:
 
 ---
 
-## 🔁 CI/CD (GitHub Actions)
+##  CI/CD (GitHub Actions)
 
 Se implementa un pipeline de integración y despliegue continuo que:
 
@@ -95,7 +95,7 @@ Se utilizan **GitHub Secrets** para almacenar credenciales sensibles como tokens
 
 ---
 
-## ☁️ Despliegue en AWS EC2
+##  Despliegue en AWS EC2
 
 El backend se ejecuta en una instancia EC2 con Ubuntu.
 
@@ -103,7 +103,7 @@ El despliegue se realiza mediante Docker Compose, asegurando consistencia entre 
 
 ---
 
-## 🩺 Endpoint de prueba
+##  Endpoint de prueba
 
 Permite verificar que el servicio backend está funcionando correctamente.
 
@@ -113,7 +113,7 @@ Permite verificar que el servicio backend está funcionando correctamente.
 
 ---
 
-## 📌 Estado del proyecto
+##  Estado del proyecto
 
 ✔ Backend funcional  
 ✔ API REST operativa  
@@ -123,6 +123,6 @@ Permite verificar que el servicio backend está funcionando correctamente.
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Proyecto desarrollado como parte de la evaluación **DevOps – Innovatech Chile**
